@@ -41,15 +41,6 @@ Docker • Kubernetes • CI/CD • GitHub Actions
 
 # 📌 Featured Projects
 
-## 🤖 Agentic AI Trip Navigator
-
-A full-stack AI-powered trip planning platform that uses multi-agent workflows to generate personalized travel itineraries based on destinations, budgets, travel dates, and user preferences.
-
-**Technologies:**
-LangGraph • FastAPI • Python • React • PostgreSQL
-
----
-
 ## 🧠 Enterprise Multi-Agent RAG System
 
 A multi-agent enterprise knowledge management system using a supervisor-based architecture to route user queries to specialized domain agents.
@@ -60,6 +51,17 @@ Features include hybrid retrieval using vector search and BM25 keyword search, c
 LangGraph • FastAPI • PostgreSQL • Qdrant • BM25
 
 ---
+
+## 🤖 Agentic AI Trip Navigator
+
+A full-stack AI-powered trip planning platform that uses multi-agent workflows to generate personalized travel itineraries based on destinations, budgets, travel dates, and user preferences.
+
+**Technologies:**
+LangGraph • FastAPI • Python • React • PostgreSQL
+
+---
+
+
 
 ## 📊 Job Market Analytics ETL Pipeline
 
